@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+void abc()
+
+{
+    printf("Hello World\n");
+    printf("today is the last session\n");
+}
+int main()
+{
+    abc();
+    abc();
+    abc();
+    abc();
+    abc();
+
+     return 0;
+}
+   
+
